@@ -1,0 +1,3 @@
+
+OPENAI_MODEL = "gpt-4o-mini"
+MAX_CODE_LENGTH = 5000
